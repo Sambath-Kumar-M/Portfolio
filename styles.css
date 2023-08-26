@@ -1,0 +1,13 @@
+
+body{
+    background: rgb(199, 199, 219);
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 15%;
+}
+
+.nav-item {
+    padding: 8%;
+}
