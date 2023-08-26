@@ -1,5 +1,3 @@
 # Portfolio
 Repository to maintain my portfolio code
-Tes
-t
-c d
+All the commits here will be pushed by date for reference
