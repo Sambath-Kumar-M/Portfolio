@@ -1,6 +1,6 @@
 
 body{
-    background: rgb(199, 199, 219);
+    background: rgb(225, 225, 237);
 }
 
 .navbar-nav {
@@ -10,4 +10,40 @@ body{
 
 .nav-item {
     padding: 8%;
+}
+
+h1, h4 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navbar-header {
+    padding-left: 5%;
+    padding-top: 1%;
+}
+
+.display-4 {
+    font-size: 40px;
+    font-weight:200;
+    background: -webkit-linear-gradient(#0a0a0a, rgba(211, 221, 227, 0.721));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+
+.display-6 {
+    font-size: 20px;
+    font-weight:200;
+    background: -webkit-linear-gradient(#0a0a0a, rgba(211, 221, 227, 0.721));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 10%;
+   
+}
+
+.col-sm {
+    margin: 10%;
+    margin-left: 16%;
+    margin-top: 8%;
 }
